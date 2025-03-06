@@ -1,2 +1,2 @@
-# holamundo
-Academia Hola Mundo
+# Academia HolaMundo.io - Cursos de Programación y Tecnología
+[Academia HolaMundo.io](https://academia.holamundo.io/) es una plataforma de aprendizaje en línea creada por Guillermo Rodas, enfocada en ofrecer cursos de programación y tecnología para todos los niveles. La academia cubre temas como JavaScript, React, TypeScript, Git, Docker, Linux, Python, SQL y más, con contenido práctico y actualizado. Su enfoque está en el aprendizaje autodidacta con ejercicios, proyectos y acceso a una comunidad activa.
